@@ -1,0 +1,23 @@
+<resources>
+    <string name="my_notes">My Notes</string>
+
+    <string name="search_notes">Search Notes</string>
+    <string name="note_subtitle">Diary Subtitle</string>
+    <string name="type_note_here">Type note here...</string>
+    <string name="note_title">Diary Title</string>
+    <string name="miscellaneous">miscellaneous</string>
+    <string name="pick_color">pick color</string>
+    <string name="Miscellaneous" />
+    <string name="add_image">Add Image</string>
+    <string name="welcome_hasith">Welcome, %s!</string>
+    <string name = "greeting">This App was Developed By Hasith Vitanage\n
+    D/BCS/22/0026\n
+    HS Vitanage</string>
+    <string name="confirm_username">Confirm New Username</string>
+    <string name="editText_username">Username</string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="enter_new_username_and_password">Enter New Username and Password</string>
+</resources>
