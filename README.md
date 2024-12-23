@@ -1,13 +1,13 @@
 # MyNotesApplication 📱📝
 
-Welcome to **MyNotesApplication** – a note-taking app built with **Java** and **Kotlin** in **Android Studio**. This app allows users to easily create, edit, and manage their notes with a user-friendly interface and local storage using **SQLite**.
+Welcome to **MyNotesApplication** – a note-taking app built with **Java** and **Kotlin** in **Android Studio**. This app allows users to easily create, edit, and manage their notes with a user-friendly interface and local storage using **Room Database**.
 
 ## 🚀 Features
 
 - 📝 **Create Notes**: Add new notes with titles and descriptions.
 - ✏️ **Edit Notes**: Modify existing notes quickly and efficiently.
 - 🗑️ **Delete Notes**: Remove notes you no longer need.
-- 📦 **Local Storage**: All notes are stored locally using **SQLite** for offline access.
+- 📦 **Local Storage with Room Database**: All notes are stored locally using **Room** for efficient data management and offline access.
 
 ## 📸 Screenshots
 
@@ -21,7 +21,7 @@ Welcome to **MyNotesApplication** – a note-taking app built with **Java** and 
 
 - **Java** (for core app functionality)
 - **Kotlin** (for modern app features and efficiency)
-- **SQLite** (for local data storage)
+- **Room Database** (for local data storage)
 - **Android Studio** (for app development)
 
 ## 📝 Installation
@@ -31,5 +31,13 @@ To run the **MyNotesApplication** on your machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/wtfHasi/MyNotesApplication.git
+2. Open the project in Android Studio.
+3. Build and run the app on an emulator or physical device.
+
+🧑‍💻 Contributing
+We welcome contributions to MyNotesApplication! If you have ideas for new features or improvements, feel free to fork the repo and submit a pull request. Please make sure to follow the existing code style and write meaningful commit messages.
+
+If you find any bugs or have any questions, open an issue here.
+
 
 
