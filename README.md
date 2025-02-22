@@ -1,6 +1,7 @@
 # MyNotes
 
 Hey Coders, this project was built using android studio with Java+Kotlin by following a Youtube tutorial and making necessary changes as an assignment
+
 Feel free to use this with good intent
 
 ## Features included following tutorials
