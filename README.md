@@ -1,4 +1,4 @@
-# MyNotesApplication 📱📝
+# MyNotesApplication 
 
 Welcome to **MyNotesApplication** – a note-taking app built with **Java** and **Kotlin** in **Android Studio**. This app allows users to easily create, edit, and manage their notes with a user-friendly interface and local storage using **Room Database**.
 
@@ -11,7 +11,7 @@ Welcome to **MyNotesApplication** – a note-taking app built with **Java** and 
 
 ## 📸 Screenshots
 
-![App Screenshot](https://via.placeholder.com/500x300)  
+![App Screenshot](https://raw.githubusercontent.com/wtfHasi/MyNotes/main/assets/1.png))  
 *Above: A snapshot of the app's main screen where you can view and manage your notes.*
 
 ![App Demo](https://via.placeholder.com/500x300)  
