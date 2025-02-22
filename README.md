@@ -11,7 +11,7 @@ Welcome to **MyNotesApplication** – a note-taking app built with **Java** and 
 
 ## 📸 Screenshots
 
-![App Screenshot](https://github.com/wtfHasi/MyNotes/assets/1.jpg) 
+![Screenshot Description](https://github.com/wtfHasi/MyNotes/blob/main/assets/1.jpg)
 *Above: A snapshot of the app's main screen where you can view and manage your notes.*
 
 ![App Demo](https://via.placeholder.com/500x300)  
