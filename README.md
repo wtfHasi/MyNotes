@@ -1,30 +1,42 @@
-# MyNotesApplication 
+# MyNotes
 
-Welcome to **MyNotesApplication** – a note-taking app built with **Java** and **Kotlin** in **Android Studio**. This app allows users to easily create, edit, and manage their notes with a user-friendly interface and local storage using **Room Database**.
+Hey Coders, this project was built using android studio with Java+Kotlin by following a Youtube tutorial and making necessary changes as an assignment
+Feel free to use this with good intent
 
-## 🚀 Features
+## Features included following tutorials
 
-- 📝 **Create Notes**: Add new notes with titles and descriptions.
-- ✏️ **Edit Notes**: Modify existing notes quickly and efficiently.
-- 🗑️ **Delete Notes**: Remove notes you no longer need.
-- 📦 **Local Storage with Room Database**: All notes are stored locally using **Room** for efficient data management and offline access.
+- **Create Notes**: Add new notes with titles, descriptions with images and an intuitive color palette with time stamps.
+- **Edit Notes**: Modify existing notes quickly and efficiently.
+- **Delete Notes**: Remove notes you no longer need.
+- **Local Storage with Room Database**: All notes are stored locally using **Room** for efficient data management and offline access.
 
-## 📸 Screenshots
+## Additional Features that i contributed myself
 
-![Screenshot Description](https://github.com/wtfHasi/MyNotes/blob/main/assets/1.jpg)
-*Above: A snapshot of the app's main screen where you can view and manage your notes.*
+- **User Customization**: Include your own personal information.
+- **Password Authentication**: Authenticate using your saved password from local storage.
+  
+## Screenshots
 
-![App Demo](https://via.placeholder.com/500x300)  
-*Above: A GIF showing how the app allows you to create and edit notes.*
+<table>
+  <tr>
+    <td><img src="https://github.com/wtfHasi/MyNotes/blob/main/assets/1.jpg" alt="Image 1" width="200"></td>
+    <td><img src="https://github.com/wtfHasi/MyNotes/blob/main/assets/2.jpg" alt="Image 2" width="200"></td>
+    <td><img src="https://github.com/wtfHasi/MyNotes/blob/main/assets/3.jpg" alt="Image 3" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/wtfHasi/MyNotes/blob/main/assets/4.jpg" alt="Image 4" width="200"></td>
+    <td><img src="https://github.com/wtfHasi/MyNotes/blob/main/assets/5.jpg" alt="Image 5" width="200"></td>
+  </tr>
+</table>
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Java** (for core app functionality)
 - **Kotlin** (for modern app features and efficiency)
 - **Room Database** (for local data storage)
 - **Android Studio** (for app development)
 
-## 📝 Installation
+## Installation
 
 To run the **MyNotesApplication** on your machine:
 
@@ -32,12 +44,9 @@ To run the **MyNotesApplication** on your machine:
    ```bash
    git clone https://github.com/wtfHasi/MyNotesApplication.git
 2. Open the project in Android Studio.
-3. Build and run the app on an emulator or physical device.
+3. Build and run the app on an emulator or android device.
 
-🧑‍💻 Contributing
-We welcome contributions to MyNotesApplication! If you have ideas for new features or improvements, feel free to fork the repo and submit a pull request. Please make sure to follow the existing code style and write meaningful commit messages.
-
-If you find any bugs or have any questions, open an issue here.
+Happy Coding! Hope you guys enjoy.
 
 
 
